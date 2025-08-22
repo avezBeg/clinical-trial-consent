@@ -27,7 +27,5 @@ Add role-based access control (e.g., only authorized sponsors can create trials)
 
 📜 Contract Address
 0x504e9fafc6a33cc19d7ec28f476f77db4b26ea23c1a05f0c434fea8638cfb6ff
-<img width="1901" height="921" alt="Screenshot 2025-08-23 010208" src="https://github.com/user-attachments/assets/a4dbb984-8864-4c9d-add0-cbde6cc9021a" />
-
-
+<img width="1882" height="907" alt="Screenshot 2025-08-23 010722" src="https://github.com/user-attachments/assets/e6280d5d-d172-452f-bd7a-e6fab4cc98c4" />
 
